@@ -1,6 +1,8 @@
 ## An orphan viral genome with unclear evolutionary status sheds light on a distinct lineage of flavi-like virus infecting plants
+
 ***
-## Section1: Small RNA analysis (Or vsiRNAs analysis here)
+
+## Part1: Small RNA analysis (Or vsiRNAs analysis here)
 ### step1: Download the public datasets from NCBI SRA database
 #### Replace the path to your own. Take the SRR14064437 as an example.
 ```
